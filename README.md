@@ -44,8 +44,8 @@ The Dialogflow Essential extension provides an authentication mechanism for Live
 
 ### Step 4: Import Rest API and Bot
 
-1. Import doc/bot/rest-api.json file as Rest API
-2. Import doc/bot/bot.json as bot while choosing just imported Rest API
+1. Import [doc/bot/rest-api.json](https://github.com/LiveHelperChat/dialogflowes/raw/refs/heads/main/doc/bot/rest-api.json) file as Rest API
+2. Import [doc/bot/bot.json](https://github.com/LiveHelperChat/dialogflowes/raw/refs/heads/main/doc/bot/bot.json) as bot while choosing just imported Rest API
 3. Modify in back office Rest API and change `PROJECT_ID` to yours.
 
 ## Usage
@@ -58,7 +58,7 @@ Once configured, the extension will handle OAuth authentication automatically. T
 
 ## Manual testing
 
-See doc folder content.
+See [doc](https://github.com/LiveHelperChat/dialogflowes/tree/main/doc) folder content.
 
 ## Permissions
 
