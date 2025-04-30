@@ -74,3 +74,7 @@ To access and configure this extension, the LiveHelperChat user needs the `lhdia
 - Ensure your service account has the proper permissions in Google Cloud
 - Check that the service credentials JSON is properly formatted and complete
 - Verify that your Google Cloud project has Dialogflow API enabled
+
+## Demo chat
+
+![Dialogflow ES Demo Chat](doc/screenshot.png)
