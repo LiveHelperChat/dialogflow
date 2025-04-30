@@ -42,7 +42,11 @@ The Dialogflow Essential extension provides an authentication mechanism for Live
 4. Paste the entire content of your service account JSON file into the "Service Credentials Content" field
 5. Save the settings
 
-### Step 4: Import Rest API and Bot
+### Step 4: Create dialogflow agent
+
+1. I just used Banking (Banking operations) prebuild agent for testing purposes.
+
+### Step 5: Import Rest API and Bot
 
 1. Import [doc/bot/rest-api.json](https://github.com/LiveHelperChat/dialogflowes/raw/refs/heads/main/doc/bot/rest-api.json) file as Rest API
 2. Import [doc/bot/bot.json](https://github.com/LiveHelperChat/dialogflowes/raw/refs/heads/main/doc/bot/bot.json) as bot while choosing just imported Rest API
